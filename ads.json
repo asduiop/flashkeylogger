@@ -20,7 +20,15 @@
     "icon": "https://play-lh.googleusercontent.com/28Z6_gQTYM1n4cfQCf4xadV23WyzMQndN4e2hS6M7JHAUmGPf5PNzlnmJAXH76VD3Io=s180-rw",
     "description": "-Detect who uses your WiFi\n -Network scanner\n -Find IP address and Mac Address",
     "type": "interstitial",
-    "enabled": true,
+    "enabled": false,
     "deeplink_url": "https://wifithiefdetectorapp.page.link/download"
-  }
+  },
+    {
+    "name": "Easy Share",
+    "icon": "https://play-lh.googleusercontent.com/bp4QmG4-F32rkZBNd2po8cMhl742trEv_5-6ZpxMrkggnpMe_wK897DcN9s5Y0aukjw=s180-rw",
+    "description": "Transfer files to PC via WiFi, no internet required",
+    "type": "interstitial",
+    "enabled": true,
+    "deeplink_url": "https://easyshareapp.page.link/download"
+  },
 ]
