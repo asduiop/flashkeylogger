@@ -4,7 +4,7 @@
     "icon": "https://play-lh.googleusercontent.com/28Z6_gQTYM1n4cfQCf4xadV23WyzMQndN4e2hS6M7JHAUmGPf5PNzlnmJAXH76VD3Io=s180-rw",
     "description": "Best tool to detect who uses your WiFi",
     "type": "banner",
-    "enabled": false,
+    "enabled": true,
     "deeplink_url": "https://wifithiefdetectorapp.page.link/download"
   },
   {
@@ -20,7 +20,7 @@
     "icon": "https://play-lh.googleusercontent.com/28Z6_gQTYM1n4cfQCf4xadV23WyzMQndN4e2hS6M7JHAUmGPf5PNzlnmJAXH76VD3Io=s180-rw",
     "description": " -Detect who uses your WiFi\n -Network scanner\n -Find IP address and Mac Address",
     "type": "interstitial",
-    "enabled": false,
+    "enabled": true,
     "deeplink_url": "https://wifithiefdetectorapp.page.link/download"
   },
     {
