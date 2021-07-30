@@ -16,6 +16,14 @@
     "deeplink_url": "https://easyshareapp.page.link/download"
   },
   {
+    "name": "InstantSaver",
+    "icon": "https://play-lh.googleusercontent.com/pK5c2jEzuwNEaY6yk949X0U7-laGZDZkWNxoQ366ho8LMD9T505SUscg1ASm9Jb0BqI=s180-rw",
+    "description": "Download HD Instagram's photo and video",
+    "type": "banner",
+    "enabled": true,
+    "deeplink_url": "https://play.google.com/store/apps/details?id=unico.instantsaver&hl=en&gl=US"
+  },
+  {
     "name": "WiFi Thief Detector",
     "icon": "https://play-lh.googleusercontent.com/28Z6_gQTYM1n4cfQCf4xadV23WyzMQndN4e2hS6M7JHAUmGPf5PNzlnmJAXH76VD3Io=s180-rw",
     "description": " -Detect who uses your WiFi\n -Network scanner\n -Find IP address and Mac Address",
