@@ -1,5 +1,23 @@
 [
   {
+    "name": "Internet Speed Indicator",
+    "icon": "https://play-lh.googleusercontent.com/3r8xH1FlvwsjyTEVxkK4GsVIn1TM3KB3rLKwW1tYg-0uorXZsglgTaOKpdYP5rlVpFc=s180-rw",
+    "description": "Get real-time internet speed and data usages.",
+    "type": "banner",
+    "enabled": true,
+    "deeplink_url": "https://internetspeedindicator.page.link/download"
+  },
+  
+  {
+    "name": "Internet Speed Indicator",
+    "icon": "https://play-lh.googleusercontent.com/3r8xH1FlvwsjyTEVxkK4GsVIn1TM3KB3rLKwW1tYg-0uorXZsglgTaOKpdYP5rlVpFc=s180-rw",
+    "description": "Get real-time internet speed and data usages.",
+    "type": "banner",
+    "type": "interstitial",
+    "deeplink_url": "https://internetspeedindicator.page.link/download"
+  },
+  
+  {
     "name": "WiFi Thief Detector",
     "icon": "https://play-lh.googleusercontent.com/28Z6_gQTYM1n4cfQCf4xadV23WyzMQndN4e2hS6M7JHAUmGPf5PNzlnmJAXH76VD3Io=s180-rw",
     "description": "Best tool to detect who uses your WiFi",
