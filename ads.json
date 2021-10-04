@@ -12,8 +12,8 @@
     "name": "Internet Speed Indicator",
     "icon": "https://play-lh.googleusercontent.com/3r8xH1FlvwsjyTEVxkK4GsVIn1TM3KB3rLKwW1tYg-0uorXZsglgTaOKpdYP5rlVpFc=s180-rw",
     "description": "Get real-time internet speed and data usages.",
-    "type": "banner",
     "type": "interstitial",
+    "enabled": true,
     "deeplink_url": "https://internetspeedindicator.page.link/download"
   },
   
