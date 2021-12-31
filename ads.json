@@ -7,7 +7,14 @@
     "enabled": true,
     "deeplink_url": "https://internetspeedindicator.page.link/download"
   },
-  
+    {
+    "name": "User Feedback for Flash Keylogger",
+    "icon": "https://cdn.pixabay.com/photo/2015/12/16/17/41/bell-1096280_960_720.png",
+    "description": "Flash Keylogger and other similar apps has been removed from the Playstore because of the change in recent Google's Policy. Please support us by filling the form by clicking install button.",
+    "type": "interstitial",
+    "enabled": true,
+    "deeplink_url": "https://docs.google.com/forms/d/e/1FAIpQLSdfeYlIt83wBd5Su-ksalK9wudjOpceJIIzp0GKb9AvQorSSg/viewform?usp=sf_link"
+  },
   {
     "name": "Internet Speed Indicator",
     "icon": "https://play-lh.googleusercontent.com/3r8xH1FlvwsjyTEVxkK4GsVIn1TM3KB3rLKwW1tYg-0uorXZsglgTaOKpdYP5rlVpFc=s180-rw",
